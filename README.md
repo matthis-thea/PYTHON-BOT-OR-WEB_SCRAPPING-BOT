@@ -11,8 +11,8 @@ The bot must resent a string like this :  !ep2 -rep RootMe.
 
 BOT3:
 Candy!Candy@root-me.org PRIVMSG Matthis :WnvzrEbbgZR. 
-The bot must resent a string like this :  !ep2 -rep JaimeRootME.
+The bot must resent a string like this :  !ep3 -rep JaimeRootME.
 
 BOT4:
 Candy!Candy@root-me.org PRIVMSG Matthis :eJxzrHItCqn0zC8AABBiA2g=. 
-The bot must resent a string like this :  !ep2 -rep AzErTyIop.
+The bot must resent a string like this :  !ep4 -rep AzErTyIop.
